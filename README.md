@@ -2,7 +2,6 @@
 - 👀 I’m interested in mobile application development
 - 🌱 I’m currently working with react-native
 - 💞️ I’m looking to collaborate on creative projects
-- 📫 How to reach me cse.180840131021@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
